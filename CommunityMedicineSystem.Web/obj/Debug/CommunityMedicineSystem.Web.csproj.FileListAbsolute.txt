@@ -70,3 +70,15 @@ E:\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSyst
 E:\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.csprojResolveAssemblyReference.cache
 E:\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.dll
 E:\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll.config
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.csprojResolveAssemblyReference.cache
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.pdb

@@ -40,3 +40,10 @@ E:\CommunityMedicineSystem\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedici
 E:\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache
 E:\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
 E:\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb

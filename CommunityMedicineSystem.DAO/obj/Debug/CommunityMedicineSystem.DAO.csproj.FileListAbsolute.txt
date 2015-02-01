@@ -18,3 +18,8 @@ E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineS
 E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
 E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
 E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.csprojResolveAssemblyReference.cache
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb

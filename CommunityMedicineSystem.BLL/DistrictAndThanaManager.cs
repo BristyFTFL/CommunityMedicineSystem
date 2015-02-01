@@ -10,6 +10,16 @@ namespace CommunityMedicineSystem.BLL
 {
     public class DistrictAndThanaManager
     {
-        
+        DistrictAndThanaDBGateway aDistrictAndThanaGateway = new DistrictAndThanaDBGateway();
+
+        public List<District> GetAllDistricts()
+        {
+            return aDistrictAndThanaGateway.GetAllDistricts();
+        }
+
+        public List<Thana> GetSelectedThanas(int districtId)
+        {
+            return aDistrictAndThanaGateway.GetSelectedThanas(districtId);
+        }
     }
 }

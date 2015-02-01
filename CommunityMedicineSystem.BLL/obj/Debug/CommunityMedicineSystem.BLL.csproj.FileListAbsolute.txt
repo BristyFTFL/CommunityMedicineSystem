@@ -52,3 +52,12 @@ E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedici
 E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
 E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
 E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\New folder (2)\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb

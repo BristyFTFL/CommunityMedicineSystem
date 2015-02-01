@@ -11,5 +11,11 @@ namespace CommunityMedicineSystem.BLL
 {
     public class CenterManager
     {
+        CenterDBGateway aCenterDbGateway = new CenterDBGateway();
+
+        public List<Center> GetSelectedCenters(int thanaId)
+        {
+            return aCenterDbGateway.GetSelectedCenters(thanaId);
+        }
     }
 }
