@@ -1,0 +1,54 @@
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\ASP.NET\Project1- CommunityMedicineSystem\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+D:\FTFL Projects\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\msd projects\final_team_engine_box\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
